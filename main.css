@@ -1,0 +1,14 @@
+ body {
+            background-color: rgb(33, 196, 224);
+            text-decoration: dashed;
+            font-size: 30px;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            text-transform: capitalize;
+            text-decoration-thickness: 2px;
+            text-size-adjust: initial;
+            text-shadow: 2px 2px 4px #a74040;
+            text-decoration-line: underline;
+            backdrop-filter: var(button);
+            font-style: italic;
+        }
